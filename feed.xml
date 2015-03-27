@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+<channel> 
+
+
+<title>AspenTech Video Podcasts</title>
+<itunes:author>AspenTech</itunes:author>
+<language>en-us</language>
+<copyright>2013</copyright>
+<link>http://www.aspentech.com</link>
+<description>Download and keep your favorite AspenTech video's with you at all times.  Downloading to your device will allow for offline playback.</description>
+<itunes:image href="http://www.aspentech.com/email/podcast/img/at-podcast-logo.jpg" />
+
+<item>
+<title>Brief Overview of aspenONE Exchange</title>
+<description>The new aspenONE Exchange allows users to share demo files and exchange models.</description>
+<itunes:author>AspenTech - Engineering</itunes:author>
+<itunes:subtitle/>
+<itunes:summary/>
+<guid>http://www.aspentech.com/email/podcast/Brief_Overview_of_aspenONE_Exchange.mp4</guid>
+<itunes:duration>00:01:04</itunes:duration>
+<enclosure url="http://www.aspentech.com/email/podcast/Brief_Overview_of_aspenONE_Exchange.mp4" type="video/mp4" length="7728559"/>
+</item>
+
+<item>
+<title>See the Power of Search in aspenONE</title>
+<description>See the Power of Search in aspenONE. See the Power of Search in aspenONE.</description>
+<itunes:author>AspenTech - Engineering</itunes:author>
+<itunes:subtitle/>
+<itunes:summary/>
+<guid>http://www.aspentech.com/email/podcast/See_the_Power_of_Search_in_aspenONE.mp4</guid>
+<itunes:duration>00:01:07</itunes:duration>
+<enclosure url="http://www.aspentech.com/email/podcast/See_the_Power_of_Search_in_aspenONE.mp4" type="video/mp4" length="8952476"/>
+</item>
+
+<item>
+<title>Find Flowsheets with aspenONE Exchange</title>
+<description>Find Flowsheets with aspenONE Exchange. Find Flowsheets with aspenONE Exchange.</description>
+<itunes:author>AspenTech - Engineering</itunes:author>
+<itunes:subtitle/>
+<itunes:summary/>
+<guid>http://www.aspentech.com/email/podcast/Find_Flowsheets_with_aspenONE_Exchange.mp4</guid>
+<itunes:duration>00:01:03</itunes:duration>
+<enclosure url="http://www.aspentech.com/email/podcast/Find_Flowsheets_with_aspenONE_Exchange.mp4" type="video/mp4" length="8877663"/>
+</item>
+
+<item>
+<title>Find Training with aspenONE Exchange</title>
+<description>Find Training with aspenONE Exchange. Find Training with aspenONE Exchange.</description>
+<itunes:author>AspenTech - Engineering</itunes:author>
+<itunes:subtitle/>
+<itunes:summary/>
+<guid>http://www.aspentech.com/email/podcast/Find_Training_with_aspenONE_Exchange.mp4</guid>
+<itunes:duration>00:00:54</itunes:duration>
+<enclosure url="http://www.aspentech.com/email/podcast/Find_Training_with_aspenONE_Exchange.mp4" type="video/mp4" length="7986839"/>
+</item>
+
+<item>
+<title>Aspen Inventory Management and Operations Scheduling IMOS</title>
+<description>Aspen Inventory Management and Operations Scheduling IMOS. Aspen Inventory Management and Operations Scheduling IMOS.</description>
+<itunes:author>AspenTech - Petroleum Supply Chain</itunes:author>
+<itunes:subtitle/>
+<itunes:summary/>
+<guid>http://www.aspentech.com/email/podcast/Aspen_Inventory_Management_and_Operations_Scheduling_IMOS.mp4</guid>
+<itunes:duration>00:01:59</itunes:duration>
+<enclosure url="http://www.aspentech.com/email/podcast/Aspen_Inventory_Management_and_Operations_Scheduling_IMOS.mp4" type="video/mp4" length="17411844"/>
+</item>
+</channel> 
+</rss>
